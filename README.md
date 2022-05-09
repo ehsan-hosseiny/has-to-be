@@ -20,11 +20,11 @@ To config for first time follow below structures:
 `localhost/api/calculate`
 <hr>
 
-##Suggestion of Api Design
+## Suggestion of Api Design
 
 <br>
 
-#####There are many good API design tools for good documentation, such as:
+##### There are many good API design tools for good documentation, such as:
 
 -  API Blueprint
 -  Swagger
