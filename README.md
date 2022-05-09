@@ -5,12 +5,14 @@
 To config for first time follow below structures:
 - `composer install`
 - `docker-compose up -d` | `sudo docker-compose up -d`
+- `Copy .env.example to make .env`
 
 
 
 #### You can also run test inside docker container
 
 - **`sudo docker exec -it has-to-be_has_to_be_app_1 bash`**
+- `php artisan key:generate`
 - **`php artisan test`**
 
 
